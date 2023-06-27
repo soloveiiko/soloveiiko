@@ -1,16 +1,57 @@
-### Hi there 👋
-
-<!--
-**soloveiiko/soloveiiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">
+  Hi, there!<img src="https://media.tenor.com/mhz0FvXX37gAAAAC/waving-hi-there.gif" alt="Hi" 
+    width="50"
+  />
+</h1>
+<p align="left">Front-end (React) developer</p>
+<h2 align="left">About me:</h2>
+<p align="left">
+  👩‍💻 Front-end developer with one year of experience <br />
+  📚 Currently focused on developing web applications using React and Redux<br />
+  📌 Ready for cooperation
+</p>
+<h2 align="left">Languages and Tools:</h2>
+<div>
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+    title="JavaScript"
+    alt="JavaScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+    title="TypeScript"
+    alt="TypeScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+    title="React"
+    alt="React"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+    title="Redux"
+    alt="Redux "
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+    title="HTML5"
+    alt="HTML"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+    title="CSS"
+    alt="CSS"
+    width="40"
+    height="40"
+  />
+</div>

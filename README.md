@@ -1,7 +1,5 @@
 <h1 align="left">
   Hi, there👋 
-    width="50"
-  />
 </h1>
 <p align="left">Front-end (React) developer</p>
 <h2 align="left">About me:</h2>

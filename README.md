@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi, there!<img src="https://media.tenor.com/mhz0FvXX37gAAAAC/waving-hi-there.gif" alt="Hi" 
+  Hi, there👋 
     width="50"
   />
 </h1>

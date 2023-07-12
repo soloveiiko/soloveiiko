@@ -38,6 +38,13 @@
     width="40"
     height="40"
   />&nbsp;
+    <img
+    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+    title="Tailwindcss"
+    alt="Tailwindcss"
+    width="40"
+    height="40"
+  />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
     title="HTML5"

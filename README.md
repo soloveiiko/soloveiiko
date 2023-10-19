@@ -1,11 +1,11 @@
 <h1 align="left">
   Hi, there👋 
 </h1>
-<p align="left">Front-end (React) developer</p>
+<p align="left">Front-end (React/Next) developer</p>
 <h2 align="left">About me:</h2>
 <p align="left">
   👩‍💻 Front-end developer with one year of experience <br />
-  📚 Currently focused on developing web applications using React and Redux<br />
+  📚 Currently focused on developing web applications using React/Next and Redux<br />
   📌 Ready for cooperation
 </p>
 <h2 align="left">Languages and Tools:</h2>
@@ -21,6 +21,13 @@
     src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
     title="TypeScript"
     alt="TypeScript"
+    width="40"
+    height="40"
+  />&nbsp;
+    <img
+    src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+    title="Next"
+    alt="Next"
     width="40"
     height="40"
   />&nbsp;

@@ -67,13 +67,6 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-    title="Linux"
-    alt="Linux"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
     src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"
     title="Wordpress"
     alt="Wordpress"
@@ -87,7 +80,14 @@
     width="40"
     height="40"
   />&nbsp;
-    <img
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+    title="Linux"
+    alt="Linux"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
     src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
     title="Docker"
     alt="Docker"

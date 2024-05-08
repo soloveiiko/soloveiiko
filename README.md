@@ -1,10 +1,11 @@
 <h1 align="left">
   Hi, there👋 
 </h1>
-<p align="left">Front-end developer</p>
+<p align="left">Full-Stack Developer</p>
 <h2 align="left">About me:</h2>
 <p align="left">
-  👩‍💻 Front-end developer with one year of experience <br />
+  👩‍💻 Full-Stack Developer with one year of experience <br />
+  🛠 Main stack - React, Next and WordPress. <br />
   📌 Ready for cooperation
 </p>
 <h2 align="left">Languages and Tools:</h2>
@@ -24,16 +25,16 @@
     height="40"
   />&nbsp;
     <img
-    src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
-    title="Next"
-    alt="Next"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
     src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
     title="React"
     alt="React"
+    width="40"
+    height="40"
+  />&nbsp;
+    <img
+    src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+    title="Next"
+    alt="Next"
     width="40"
     height="40"
   />&nbsp;
@@ -59,23 +60,44 @@
     height="40"
   />&nbsp;
   <img
+    src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"
+    title="PHP"
+    alt="PHP"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+    title="Linux"
+    alt="Linux"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
     src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
     title="Docker"
     alt="Docker"
     width="40"
     height="40"
   />&nbsp;
-    <img
-    src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-plain.svg"
-    title="Drupal"
-    alt="Drupal"
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
+    title="Postman"
+    alt="Postman"
     width="40"
     height="40"
   />&nbsp;
-   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"
-    title="PHP"
-    alt="PHP"
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"
+    title="Wordpress"
+    alt="Wordpress"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"
+    title="Woocommerce"
+    alt="Woocommerce"
     width="40"
     height="40"
   />&nbsp;

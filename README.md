@@ -74,20 +74,6 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
-    title="Docker"
-    alt="Docker"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
-    title="Postman"
-    alt="Postman"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
     src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"
     title="Wordpress"
     alt="Wordpress"
@@ -98,6 +84,20 @@
     src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"
     title="Woocommerce"
     alt="Woocommerce"
+    width="40"
+    height="40"
+  />&nbsp;
+    <img
+    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
+    title="Docker"
+    alt="Docker"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
+    title="Postman"
+    alt="Postman"
     width="40"
     height="40"
   />&nbsp;

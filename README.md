@@ -4,8 +4,8 @@
 <p align="left">Full-Stack Developer</p>
 <h2 align="left">About me:</h2>
 <p align="left">
-  👩‍💻 Full-Stack Developer with 1.5 year of experience <br />
-  🛠 Main stack - React, Next and WordPress. <br />
+  👩‍💻 Full-Stack Developer <br />
+  🛠 Main stack - Shopify, React, Next, Nest. <br />
   📌 Ready for cooperation
 </p>
 <h2 align="left">Languages and Tools:</h2>

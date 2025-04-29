@@ -144,5 +144,19 @@ I'm Shopify Developer
       alt="Docker"
       width="40"
       height="40"
+  />&nbsp;  
+  <img
+      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+      title="Linux"
+      alt="Linux"
+      width="40"
+      height="40"
+  />&nbsp;
+  <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"
+      title="NGINX"
+      alt="NGINX"
+      width="40"
+      height="40"
   />&nbsp;
 </div>

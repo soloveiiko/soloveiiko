@@ -1,15 +1,22 @@
-<h1 align="left">
-  Hi, there👋 
-</h1>
-<p align="left">Full-Stack Developer</p>
-<h2 align="left">About me:</h2>
-<p align="left">
-  👩‍💻 Full-Stack Developer <br />
-  🛠 Main stack - Shopify, React, Next, Nest. <br />
-  📌 Ready for cooperation
-</p>
-<h2 align="left">Languages and Tools:</h2>
+**# Hi, there👋
+Full-Stack Developer
+
+## About me:
+
+👩‍💻 Full-Stack Developer  
+🛠 Main stack - Shopify, React, Next, Nest.  
+📌 Ready for cooperation
+
+## Languages and Tools:
+
 <div>
+  <img
+    src="https://github.com/soloveiiko/soloveiiko/blob/main/shopify.png"
+    title="Shopify"
+    alt="Shopify"
+    width="40"
+    height="40"
+  />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     title="JavaScript"
@@ -60,9 +67,23 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
-    title="PHP"
-    alt="PHP"
+    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
+    title="Tailwind CSS"
+    alt="Tailwind CSS"
+    width="40"
+    height="40"
+  />&nbsp;  
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+    title="Bootstrap"
+    alt="Bootstrap"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"
+    title="Material UI"
+    alt="Material UI"
     width="40"
     height="40"
   />&nbsp;
@@ -81,16 +102,9 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-    title="Linux"
-    alt="Linux"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
-    title="Docker"
-    alt="Docker"
+    src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"
+    title="GraphQL"
+    alt="GraphQL"
     width="40"
     height="40"
   />&nbsp;
@@ -98,6 +112,20 @@
     src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"
     title="Postman"
     alt="Postman"
+    width="40"
+    height="40"
+  />&nbsp;  
+  <img
+    src="https://github.com/soloveiiko/soloveiiko/blob/main/google-tag-manager.svg"
+    title="Google Tag Manager"
+    alt="Google Tag Manager"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
+    title="Docker"
+    alt="Docker"
     width="40"
     height="40"
   />&nbsp;

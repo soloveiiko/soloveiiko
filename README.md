@@ -1,12 +1,14 @@
 **# Hi, there👋
-Full-Stack Developer
+I'm Shopify Developer
 
-## About me:
+## 🧑‍💻 About Me
 
-👩‍💻 Full-Stack Developer  
-🛠 Main stack - Shopify, React, Next, Nest.  
-📌 Ready for cooperation
-
+🔧 Full-Stack Developer with a strong focus on eCommerce  
+🛍 Specialized in **Shopify** development (themes, custom apps, Storefront API, Liquid)  
+⚙️ Tech Stack: **Shopify**, **Hydrogen**, **React**, **Next.js**, **Remix**, **Node.js**  
+📐 Also experienced with design tools like Figma, Photoshop, and Illustrator  
+🌍 Open to freelance, contract, or team collaborations  
+ 
 ## Languages and Tools:
 
 <div>
